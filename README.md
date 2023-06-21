@@ -66,6 +66,6 @@ opencv-doc-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
-## 赞助我们
+## 赞助我
 
-<img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
+<img src="https://img-blog.csdnimg.cn/20200112005920729.png" alt="微信&支付宝" />
