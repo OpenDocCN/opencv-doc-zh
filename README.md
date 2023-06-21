@@ -19,11 +19,7 @@ OpenCV 在全球范围内采用，拥有超过 4.7 万用户社区，估计下�
 ```
 
 +   [在线阅读](http://opencv.apachecn.org)
-+   [在线阅读（Gitee）](https://apachecn.gitee.io/opencv-doc-zh/)
 +   项目负责人及贡献者：请见各个版本的首页
-+   [ApacheCN 机器学习交流群 724187166](https://qm.qq.com/cgi-bin/qm/qr?k=Gb-dgdOIFRT2A09lMZLTG5shvqbw1U1d&jump_from=webapi)
-+   [ApacheCN 学习资源](http://www.apachecn.org/)
-
 ## 建议反馈
 
 *   联系项目负责人
@@ -47,14 +43,6 @@ OpenCV 在全球范围内采用，拥有超过 4.7 万用户社区，估计下�
 ```
 docker pull apachecn0/opencv-doc-zh
 docker run -tid -p <port>:80 apachecn0/opencv-doc-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install opencv-doc-zh
-opencv-doc-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
